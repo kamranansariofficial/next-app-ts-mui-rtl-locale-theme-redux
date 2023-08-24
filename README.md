@@ -13,7 +13,7 @@ Welcome to the Next.js App with Material-UI v5 Starter repository! This template
 
 ## Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/your-repo.git`
+1. **Clone the Repository**: `git clone https://github.com/kamranansariofficial/next-app-ts-mui-rtl-locale-theme-redux`
 2. **Navigate to Project Directory**: `cd your-repo`
 3. **Install Dependencies**: `npm install` or `yarn install`
 4. **Start Development Server**: `npm run dev` or `yarn dev`
