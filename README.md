@@ -1,5 +1,9 @@
 # Next.js App with Material-UI v5 Starter
 
+## Demo
+
+Explore the live demo: [View Demo](https://next-mui-app-ts.vercel.app)
+
 Welcome to the Next.js App with Material-UI v5 Starter repository! This template provides a solid foundation for building modern web applications. Whether you're new to web development or an experienced developer, this starter has you covered.
 
 ## Features
