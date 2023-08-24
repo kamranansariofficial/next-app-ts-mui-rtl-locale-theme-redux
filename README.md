@@ -1,2 +1,41 @@
-# nextjs-app-router-ts-mui-rtl-locale-redux
- Explore the power of Next.js and Material-UI v5 in this feature-rich app template. Experience seamless multilingual support, a dynamic dashboard layout, and state management powered by Redux Toolkit with persistence. Toggle between eye-friendly dark mode and light mode, while enjoying customizable themes to suit your style. Jumpstart your project with this comprehensive Next.js template that showcases best practices for a modern web app."  Feel free to modify and expand upon this description to match the specific details and uniqueness of your app
+# Next.js App with Material-UI v5 Starter
+
+Welcome to the Next.js App with Material-UI v5 Starter repository! This template provides a solid foundation for building modern web applications. Whether you're new to web development or an experienced developer, this starter has you covered.
+
+## Features
+
+- **Next.js App Router**: Utilize the power of Next.js for client-side routing and navigation.
+- **Multilingual Support**: Reach a global audience by easily implementing multilingual content.
+- **Redux Toolkit with Persistence**: Manage your app's state efficiently using Redux Toolkit, with data persistence across sessions.
+- **Dynamic Dashboard Layout**: Create interactive and engaging dashboard interfaces with a responsive layout.
+- **Dark Mode and Light Mode**: Enhance user experience by providing both dark and light mode options.
+- **Customizable Themes**: Tailor the app's look and feel according to your preferences.
+
+## Getting Started
+
+1. **Clone the Repository**: `git clone https://github.com/yourusername/your-repo.git`
+2. **Navigate to Project Directory**: `cd your-repo`
+3. **Install Dependencies**: `npm install` or `yarn install`
+4. **Start Development Server**: `npm run dev` or `yarn dev`
+5. **Open in Browser**: Visit `http://localhost:3000` in your browser.
+
+Feel free to explore the codebase and modify it to match your project requirements.
+
+## Usage
+
+1. Customize the languages and translations in the `locales` directory.
+2. Manage your app's global state in the Redux store located in the `redux` directory.
+3. Design and personalize themes in the `themes` directory.
+4. Implement your dashboard components within the `dashboard` directory.
+
+## Contributing
+
+We welcome contributions from the developer community! If you find any issues or have suggestions for improvements, please feel free to create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy coding! 🚀
