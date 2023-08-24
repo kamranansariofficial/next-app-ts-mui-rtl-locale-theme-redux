@@ -23,9 +23,9 @@ Feel free to explore the codebase and modify it to match your project requiremen
 
 ## Usage
 
-1. Customize the languages and translations in the `locales` directory.
-2. Manage your app's global state in the Redux store located in the `redux` directory.
-3. Design and personalize themes in the `themes` directory.
+1. Customize the languages and translations in the `dictionaries` directory.
+2. Manage your app's global state in the Redux store located in the `lib/redux` directory.
+3. Design and personalize themes in the `ThemeRegistry` directory.
 4. Implement your dashboard components within the `dashboard` directory.
 
 ## Contributing
